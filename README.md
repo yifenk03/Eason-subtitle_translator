@@ -1,17 +1,7 @@
----
-AIGC:
-    ContentProducer: Minimax Agent AI
-    ContentPropagator: Minimax Agent AI
-    Label: AIGC
-    ProduceID: 5c9878ab1b1715be628ec84045df688f
-    PropagateID: 5c9878ab1b1715be628ec84045df688f
-    ReservedCode1: 304402204673e68f15295ff016d8b995a3fd6819acabdde57bc65f37eb7325b81fef56b4022063052f94179a0b0ba3aa8ae3ab7cd9fdacf7b1e298c43cfe8376256541a85515
-    ReservedCode2: 304402202a2ef28ca0aa233d281a39db374235fc1f38dcca908166d2f14c2042cf5fa7400220612f787e6b446f53639e084ce4c1eb1081e9f89b97abb276bebe0f46f246c53b
----
 
 # LM Studio 字幕翻译工具
 
-使用本地大语言模型（LM Studio）对字幕文件进行智能翻译的 GUI 工具。
+使用本地大语言模型（LM Studio等）对字幕文件进行智能翻译的 GUI 工具。
 
 ## 功能特点
 
