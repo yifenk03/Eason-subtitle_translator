@@ -1,0 +1,11 @@
+# LM Studio 字幕翻译工具 依赖
+
+# 核心依赖
+requests>=2.25.0
+
+# GPU监控（可选，未安装时使用CPU模式）
+GPUtil>=1.4.0
+
+# tkinter通常随Python一起安装
+# 如需单独安装（仅Linux）：
+# sudo apt-get install python3-tk
